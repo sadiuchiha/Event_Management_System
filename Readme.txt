@@ -1,3 +1,5 @@
+Event Management System
+
 The software uses a live server not local.
 
 Incase you want to make the software local. Not live
